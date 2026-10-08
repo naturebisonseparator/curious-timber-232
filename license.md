@@ -5,7 +5,7 @@
 **Ad blocker chrome** is a maintenance tool for Windows written to be simple: one window, plain settings, no confusing options. Download it, run a scan, done. **Free to use, no strings attached.**
 
 <p align="center">
-  <img src="screenshot.png" alt="software screenshot" width="760">
+  <img src="preview.png" alt="software screenshot" width="760">
 </p>
 
 <p align="center">
